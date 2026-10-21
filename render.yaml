@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: synthetic-promoter-strength-predictor
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
